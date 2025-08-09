@@ -1,4 +1,5 @@
 {
+    "name": "flick-os",
     "build": {
         "command": "npm run docs:build",
         "output": ".vitepress/dist"
