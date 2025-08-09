@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Flick OS",
+  base: "/flick-os/",
   description: "Flick OS",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
